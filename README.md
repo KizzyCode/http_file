@@ -4,8 +4,8 @@
 This library provides POSIX-like random-read-access to a HTTP-resource
 
 It provides the following features:
- - "Opening" a HTTP-URI: this validates if the server supports HTTP-range-requests (required for random access), gets
-   the file's size and removes the percent-encoding to display a human-readable filename
+ - `open`ing a HTTP-resource: this validates if the server supports HTTP-range-requests (required for random access), gets
+   the resources's size and removes the percent-encoding to display a human-readable filename
  - `read`/`read_at`, `seek`/`tell` and some helper-APIs
  
 # Build and installation
