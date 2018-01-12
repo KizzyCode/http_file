@@ -19,7 +19,7 @@ in your web-browser, run `cargo doc --open`.
 To build the library, go into the projects root-directory and run `cargo build --release`; you can find the build in
 target/release.
 
-# TODO:
+# TODO
  - HTTPS-support
  - Background-prefetching for better performance
  - Maybe adaptive cache-resizing
