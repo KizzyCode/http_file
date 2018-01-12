@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 # About
-This library provides POSIX-like random-read-access to a HTTP-URI
+This library provides POSIX-like random-read-access to a HTTP-resource
 
 We provide the following features:
  - "Opening" a HTTP-URI: this validates if the server supports HTTP-range-requests (required for random access), gets
