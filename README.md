@@ -12,7 +12,7 @@ It provides the following features:
 This library depends on [network_io](https://github.com/KizzyCode/network_io) for the network-operations and
 [http](https://github.com/KizzyCode/http) for the HTTP-encoding/decoding.
 
-# Build and installation
+# Build Library and Documentation
 To build the documentation, go into the projects root-directory and run `cargo doc --release`; to open the documentation
 in your web-browser, run `cargo doc --open`.
 
